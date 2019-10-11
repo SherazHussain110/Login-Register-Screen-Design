@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SafeRyde</string>
+    <string name="connect_more_ride_safe">Connect More, Ride Safe</string>
+    <string name="wellcome_to_new">Wellcome To New \n Driver App</string>
+    <string name="sign_in">Login</string>
+    <string name="register">Register</string>
+    <string name="email"> Email</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password"> Password</string>
+    <string name="forget_your_password"><i>Forgot your password?</i></string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="city">City</string>
+    <string name="invite_code">Invite Code</string>
+    <string name="optional">Optional</string>
+    <string name="by_proceeding">By proceeding you agree to safe Ryder\'s Terms of Use and acknowlede you have read the Privacy Policy</string>
+    <string name="cont">Continue</string>
+    <string name="select_documents">Select your personal documents.</string>
+</resources>
